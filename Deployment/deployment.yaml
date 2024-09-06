@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: example-container
-        image: gboie/node-app
+        image: ihl-harbor.apps.hackathon.cnasg.dellcsc.com/sit/finiva-kuanyong
         ports:
         - containerPort: 3000
